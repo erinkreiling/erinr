@@ -1,0 +1,21 @@
+Package: erinr
+Type: Package
+Title: Introduction to Functions
+Version: 0.1.0
+Authors@R: c(person("Erin", "Kreiling", email = "kreilingeg@appstate.edu",
+  role = c("aut","cre")),
+  person("Sami","Hlebak",email = "hlebaksm@appstate.edu",
+  role = "aut"),
+  person("Jack","Leff", email = "leffjr@appstate.edu",
+  role = "ctb"))
+Description: Functions that calculate power, square roots, rolling a dice, and
+    shuffling cards.
+Depends:
+    R (>= 3.2.0)
+License: GPL-2
+LazyData: TRUE
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1
