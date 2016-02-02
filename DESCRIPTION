@@ -1,6 +1,7 @@
 Package: erinr
 Type: Package
 Title: Introduction to Functions
+Date: 2016-02-01
 Version: 0.1.0
 Authors@R: c(person("Erin", "Kreiling", email = "kreilingeg@appstate.edu",
   role = c("aut","cre")),
