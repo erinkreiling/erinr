@@ -17,7 +17,8 @@ License: GPL-2
 LazyData: TRUE
 Suggests:
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
 URL: https://github.com/erinkreiling/erinr
