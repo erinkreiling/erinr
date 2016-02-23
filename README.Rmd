@@ -5,6 +5,10 @@ output:
     keep_md: yes
 ---
 
+```{r setup, include = FALSE}
+knitr:: opts_chunk$set(echo=TRUE)
+```
+
 This repository is made to support the erinr package 
 
 [![Travis-CI Build Status](https://travis-ci.org/erinkreiling/erinr.svg?branch=master)](https://travis-ci.org/erinkreiling/erinr)
