@@ -19,4 +19,4 @@ To install this package use:
 devtools::install_github('erinkreiling/erinr', build_vignettes = TRUE)
 ```
 
-a
+
